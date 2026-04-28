@@ -1,0 +1,14 @@
+C:\Users\warre\source\repos\SimpleATM\bin\Debug\net10.0\SimpleATM.exe
+C:\Users\warre\source\repos\SimpleATM\bin\Debug\net10.0\SimpleATM.deps.json
+C:\Users\warre\source\repos\SimpleATM\bin\Debug\net10.0\SimpleATM.runtimeconfig.json
+C:\Users\warre\source\repos\SimpleATM\bin\Debug\net10.0\SimpleATM.dll
+C:\Users\warre\source\repos\SimpleATM\bin\Debug\net10.0\SimpleATM.pdb
+C:\Users\warre\source\repos\SimpleATM\obj\Debug\net10.0\SimpleATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\source\repos\SimpleATM\obj\Debug\net10.0\SimpleATM.AssemblyInfoInputs.cache
+C:\Users\warre\source\repos\SimpleATM\obj\Debug\net10.0\SimpleATM.AssemblyInfo.cs
+C:\Users\warre\source\repos\SimpleATM\obj\Debug\net10.0\SimpleATM.csproj.CoreCompileInputs.cache
+C:\Users\warre\source\repos\SimpleATM\obj\Debug\net10.0\SimpleATM.dll
+C:\Users\warre\source\repos\SimpleATM\obj\Debug\net10.0\refint\SimpleATM.dll
+C:\Users\warre\source\repos\SimpleATM\obj\Debug\net10.0\SimpleATM.pdb
+C:\Users\warre\source\repos\SimpleATM\obj\Debug\net10.0\SimpleATM.genruntimeconfig.cache
+C:\Users\warre\source\repos\SimpleATM\obj\Debug\net10.0\ref\SimpleATM.dll
